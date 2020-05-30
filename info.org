@@ -1,0 +1,52 @@
+#+TITLE: General Information
+
+** Useful Links
+*** Recursos oferecidos para o SpaceApps
+[[https://docs.google.com/document/d/1p7TS4kfkXigcDO_TSUHNoQh2Gt3aB1By_Nk6RoQP3vM/preview?pru=AAABcolky6s*9nBVgV74EHkApEH5Sp_kFg]]
+
+*** Nasa Social Isolation
+https://www.nasa.gov/hrp/social-isolation
+
+*** Nasa Social Isolation in Context
+https://www.nasa.gov/hrp/social-isolation/in-context
+
+*** Characterization of Psychological Risk, Overlap with Physical Health, and Associated Performance in Isolated, Confined, Extreme (ICE) Environments
+https://taskbook.nasaprs.com/tbp/index.cfm?action=public_query_taskbook_content&TASKID=12495
+
+*** Nasa Earth Data
+https://earthdata.nasa.gov/learn/getting-started
+
+
+** Cronograma
+Durante a programação do hackathon irão acontecer entregas parciais e sessões de mentorias.
+Na madrugada de sábado para domingo as equipes podem trabalhar no desenvolvimento dos seus projetos.
+Este cronograma poderá ser modificado.
+
+*** SÁBADO 30-05
+08:00 WEBINAR: Boas vindas, Orientação e agenda do dia
+10:00 WEBINAR TÉCNICO: Problema/Solução
+11:00 Abre plataforma para 1ª entrega: Ideação
+12:30 Webinar Q&A - 30min
+15:00 Fecha plataforma para 1ª entrega: Ideação
+15:30 WEBINAR TÉCNICO: Prototipagem
+16:30 Abre plataforma para 2ª entrega: Impacto
+17:00 WEBINAR TÉCNICO: uso de dados da NASA, ESA e JAXA - Perguntas e Respostas
+18:00 WEBINAR OPCIONAL: Oracle Autonomous Database & Data Science
+21:00 Fecha plataforma para 2ª entrega: Impacto
+22:30 Webinar Q&A - 30min
+23:00 Encerramento das mentorias
+
+00:00 até domingo: Equipes podem continuar trabalhando na madrugada focadas no desenvolvimento do protótipo do projeto.
+
+*** DOMINGO 31-05
+
+9:00 WEBINAR TÉCNICO: Pitch for NASA Space Apps
+13:00: Webinar Q&A - 30min
+14:00 Abre plataforma para 3ª entrega: Pitch e Entrega final
+16h30: 13h: Webinar Q&A - 30min
+18h30: Webinar Q&A - 30min
+22:00 Fecha plataforma para 3ª entrega: Pitch e Entrega final + Aplicação Nasa Global
+23:00 Encerramento das mentorias
+
+QUINTA FEIRA 04/06
+20:00 WEBINAR de encerramento do NASA Space Apps Brazil com divulgação dos vencedores locais.
