@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <script src="geo.js"></script>
+    </head>
+    <body>
+        <div class="container">
+            <h1>brainstorm team</h1>
+            <p>Click the button below to pick your geo m8</p>
+            <button onclick="getLocation()">Esse é o butão</button>
+            <P>Sua localização:</P>
+            <p id="coord"></p>
+            
+            <script>
+                var x = document.getElementById("coord");
+                
+                function getLocation() {
+                  if (navigator.geolocation) {
+                    navigator.geolocation.getCurrentPosition(showPosition);
+                  } else { 
+                    x.innerHTML = "Geolocation is not supported by this browser.";
+                  }
+                }
+                
+                function showPosition(position) {
+                  x.innerHTML = "Latitude: " + position.coords.latitude + 
+                  "<br>Longitude: " + position.coords.longitude;
+                }
+            </script>
+        </div>              
+    </body>
+</html>
